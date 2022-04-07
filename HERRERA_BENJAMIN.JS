@@ -1,7 +1,7 @@
 function myBirthYearFunc(){
     console.log("Nací en " + 1980);
 }
-//el año en el que nacio
+//el año en el que nacio o el que puso
 
 
 
